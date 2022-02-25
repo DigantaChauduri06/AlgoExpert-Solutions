@@ -1,0 +1,6 @@
+1. Full binary tree = Every tree has 0 or 2 children
+2. complete binary tree = 1)Every lavels are filled except the last lavel
+                       2)The last lavel has all nodes as left as possible.
+3. Parfect binary tree = All leaf nodes are at the same lavel
+4. Balenced binary tree = height of that binary tree is at max log2(N).
+5. Degenrate tree: Linkedlist tree
